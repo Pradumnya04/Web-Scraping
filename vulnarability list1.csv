@@ -1,0 +1,181 @@
+,Topic of vulnarability,Published Date,Severity
+0,Microsoft Edge Chromium: CVE-2022-0110 Incorrect security UI in Autofill,"January 07, 2022",4
+1,Microsoft Edge Chromium: CVE-2022-0104 Heap buffer overflow in ANGLE,"January 07, 2022",4
+2,Microsoft Edge Chromium: CVE-2022-0120 Inappropriate implementation in Passwords,"January 07, 2022",4
+3,Microsoft Edge Chromium: CVE-2022-0114 Out of bounds memory access in Web Serial,"January 07, 2022",4
+4,Microsoft Edge Chromium: CVE-2022-0111 Inappropriate implementation in Navigation,"January 07, 2022",4
+5,Microsoft Edge Chromium: CVE-2022-21929,"January 07, 2022",4
+6,Microsoft Edge Chromium: CVE-2022-0109 Inappropriate implementation in Autofill,"January 07, 2022",4
+7,Microsoft Edge Chromium: CVE-2022-21954,"January 07, 2022",4
+8,Microsoft Edge Chromium: CVE-2022-0101 Heap buffer overflow in Bookmarks,"January 07, 2022",4
+9,Microsoft Edge Chromium: CVE-2022-0112 Incorrect security UI in Browser UI,"January 07, 2022",4
+10,Microsoft Edge Chromium: CVE-2022-0116 Inappropriate implementation in Compositing,"January 07, 2022",4
+11,Microsoft Edge Chromium: CVE-2022-0097 Inappropriate implementation in DevTools,"January 07, 2022",4
+12,Microsoft Edge Chromium: CVE-2022-21970,"January 07, 2022",4
+13,Microsoft Edge Chromium: CVE-2022-0107 Use after free in File Manager API,"January 07, 2022",4
+14,Microsoft Edge Chromium: CVE-2022-0103 Use after free in SwiftShader,"January 07, 2022",4
+15,Microsoft Edge Chromium: CVE-2022-0115 Uninitialized Use in File API,"January 07, 2022",4
+16,Microsoft Edge Chromium: CVE-2022-0096 Use after free in Storage,"January 07, 2022",4
+17,Microsoft Edge Chromium: CVE-2022-21930,"January 07, 2022",4
+18,Microsoft Edge Chromium: CVE-2022-0102 Type Confusion in V8,"January 07, 2022",4
+19,Microsoft Edge Chromium: CVE-2022-0100 Heap buffer overflow in Media streams API,"January 07, 2022",4
+20,Microsoft Edge Chromium: CVE-2022-0111 Inappropriate implementation in Navigation,"January 07, 2022",4
+21,Microsoft Edge Chromium: CVE-2022-0102 Type Confusion in V8,"January 07, 2022",4
+22,Microsoft Edge Chromium: CVE-2022-0118 Inappropriate implementation in WebShare,"January 07, 2022",4
+23,Microsoft Edge Chromium: CVE-2022-0117 Policy bypass in Service Workers,"January 07, 2022",4
+24,Microsoft Edge Chromium: CVE-2022-0105 Use after free in PDF,"January 07, 2022",4
+25,Microsoft Edge Chromium: CVE-2022-0100 Heap buffer overflow in Media streams API,"January 07, 2022",4
+26,Microsoft Edge Chromium: CVE-2022-0106 Use after free in Autofill,"January 07, 2022",4
+27,Microsoft Edge Chromium: CVE-2022-0120 Inappropriate implementation in Passwords,"January 07, 2022",4
+28,Microsoft Edge Chromium: CVE-2022-0097 Inappropriate implementation in DevTools,"January 07, 2022",4
+29,Ubuntu: (Multiple Advisories) (CVE-2021-4002): Linux kernel vulnerability,"January 07, 2022",4
+30,Ubuntu: USN-5204-1 (CVE-2021-45116): Django vulnerabilities,"January 07, 2022",4
+31,Google Chrome Vulnerability: CVE-2022-0110 Incorrect security UI in Autofill,"January 07, 2022",4
+32,Google Chrome Vulnerability: CVE-2022-0118 Inappropriate implementation in WebShare,"January 07, 2022",4
+33,Google Chrome Vulnerability: CVE-2022-0115 Uninitialized Use in File API,"January 07, 2022",4
+34,Google Chrome Vulnerability: CVE-2022-0120 Inappropriate implementation in Passwords,"January 07, 2022",4
+35,Google Chrome Vulnerability: CVE-2022-0116 Inappropriate implementation in Compositing,"January 07, 2022",4
+36,Google Chrome Vulnerability: CVE-2022-0101 Heap buffer overflow in Bookmarks,"January 07, 2022",4
+37,Google Chrome Vulnerability: CVE-2022-0105 Use after free in PDF,"January 07, 2022",4
+38,Google Chrome Vulnerability: CVE-2022-0104 Heap buffer overflow in ANGLE,"January 07, 2022",4
+39,Google Chrome Vulnerability: CVE-2022-0099 Use after free in Sign-in,"January 07, 2022",4
+40,Google Chrome Vulnerability: CVE-2022-0100 Heap buffer overflow in Media streams API,"January 07, 2022",4
+41,Google Chrome Vulnerability: CVE-2022-0117 Policy bypass in Service Workers,"January 07, 2022",4
+42,Google Chrome Vulnerability: CVE-2022-0116 Inappropriate implementation in Compositing,"January 07, 2022",4
+43,Google Chrome Vulnerability: CVE-2022-0097 Inappropriate implementation in DevTools,"January 07, 2022",4
+44,Google Chrome Vulnerability: CVE-2022-0113 Inappropriate implementation in Blink,"January 07, 2022",4
+45,Google Chrome Vulnerability: CVE-2022-0112 Incorrect security UI in Browser UI,"January 07, 2022",4
+46,Google Chrome Vulnerability: CVE-2022-0111 Inappropriate implementation in Navigation,"January 07, 2022",4
+47,Google Chrome Vulnerability: CVE-2022-0107 Use after free in File Manager API,"January 07, 2022",4
+48,Google Chrome Vulnerability: CVE-2022-0103 Use after free in SwiftShader,"January 07, 2022",4
+49,Google Chrome Vulnerability: CVE-2022-0102 Type Confusion in V8,"January 07, 2022",4
+50,Google Chrome Vulnerability: CVE-2022-0096 Use after free in Storage,"January 07, 2022",4
+51,Google Chrome Vulnerability: CVE-2022-0101 Heap buffer overflow in Bookmarks,"January 07, 2022",4
+52,Ubuntu: USN-5204-1 (CVE-2021-45115): Django vulnerabilities,"January 07, 2022",4
+53,Ubuntu: USN-5207-1 (CVE-2021-4001): Linux kernel (OEM) vulnerabilities,"January 07, 2022",4
+54,Ubuntu: USN-5204-1 (CVE-2021-45452): Django vulnerabilities,"January 07, 2022",4
+55,Google Chrome Vulnerability: CVE-2022-0104 Heap buffer overflow in ANGLE,"January 07, 2022",4
+56,Google Chrome Vulnerability: CVE-2022-0114 Out of bounds memory access in Web Serial,"January 07, 2022",4
+57,Google Chrome Vulnerability: CVE-2022-0105 Use after free in PDF,"January 07, 2022",4
+58,Google Chrome Vulnerability: CVE-2022-0098 Use after free in Screen Capture,"January 07, 2022",4
+59,Google Chrome Vulnerability: CVE-2022-0099 Use after free in Sign-in,"January 07, 2022",4
+60,SUSE: CVE-2021-4147: SUSE Linux Security Advisory,"January 07, 2022",4
+61,Debian: CVE-2021-43529: thunderbird -- security update,"January 07, 2022",4
+62,VMware Workspace ONE Access: CVE-2021-22056: SSRF vulnerability in VMWare Workspace One Access (VMSA-2021-0030),"January 07, 2022",4
+63,VMWare vRealize: log4j logging library vulnerability (CVE-2021-45046),"January 07, 2022",4
+64,VMWare vRealize: log4jcore controlled LDAP vulnerability (CVE-2021-44228),"January 07, 2022",4
+65,Debian: CVE-2021-4126: thunderbird -- security update,"January 07, 2022",4
+66,VMware Workspace ONE Access: CVE-2021-45046: log4j logging library vulnerability in VMWare Workspace One Access (VMSA-2021-0028),"January 07, 2022",4
+67,VMware Workspace ONE Access: CVE-2021-22057: Authentication bypass vulnerability in VMWare Workspace One Access (VMSA-2021-0030),"January 07, 2022",4
+68,VMware Workspace ONE Access: CVE-2021-44228: log4jcore controlled LDAP vulnerability in VMWare Workspace One Access (VMSA-2021-0028),"January 07, 2022",4
+69,Huawei EulerOS: CVE-2021-3652: 389-ds-base security update,"January 07, 2022",4
+70,Huawei EulerOS: CVE-2021-20322: kernel security update,"January 07, 2022",4
+71,Wireshark : CVE-2021-4181 : Sysdig Event dissector crash,"January 07, 2022",4
+72,Wireshark : CVE-2021-4185 : RTMPT dissector infinite loop,"January 07, 2022",4
+73,Wireshark : CVE-2021-4182 : RFC 7468 file parser infinite loop,"January 07, 2022",4
+74,Wireshark : CVE-2021-4183 : pcapng file parser crash,"January 07, 2022",4
+75,Wireshark : CVE-2021-4190 : Kafka dissector infinite loop.,"January 07, 2022",4
+76,Wireshark : CVE-2021-4184 : BitTorrent DHT dissector infinite loop,"January 07, 2022",4
+77,SUSE: CVE-2021-44832: SUSE Linux Security Advisory,"January 07, 2022",4
+78,Debian: CVE-2021-44832: apache-log4j2 -- security update,"January 07, 2022",4
+79,Apache Log4j Core: CVE-2021-44832: Apache Log4j2 Remote Code Execution,"January 07, 2022",4
+80,"Debian: CVE-2021-41817: ruby2.3, ruby2.5 -- security update","January 07, 2022",4
+81,Apache Log4j Core: CVE-2021-44832: Apache Log4j2 Remote Code Execution,"January 07, 2022",4
+82,Huawei EulerOS: CVE-2021-3669: kernel security update,"January 07, 2022",4
+83,Huawei EulerOS: CVE-2021-3759: kernel security update,"January 07, 2022",4
+84,Huawei EulerOS: CVE-2021-3660: cockpit security update,"January 07, 2022",4
+85,MediaWiki: Unspecified Security Vulnerability (CVE-2021-45471),"January 07, 2022",4
+86,MediaWiki: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') (CVE-2021-45472),"January 07, 2022",4
+87,MediaWiki: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') (CVE-2021-45474),"January 07, 2022",4
+88,MediaWiki: Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') (CVE-2021-45473),"January 07, 2022",4
+89,SUSE: CVE-2021-44542: SUSE Linux Security Advisory,"January 07, 2022",4
+90,SUSE: CVE-2021-45463: SUSE Linux Security Advisory,"January 07, 2022",4
+91,SUSE: CVE-2021-44540: SUSE Linux Security Advisory,"January 07, 2022",4
+92,SUSE: CVE-2021-44541: SUSE Linux Security Advisory,"January 07, 2022",4
+93,SUSE: CVE-2021-44543: SUSE Linux Security Advisory,"January 07, 2022",4
+94,Ubuntu: (Multiple Advisories) (CVE-2021-20321): Linux kernel vulnerabilities,"January 07, 2022",4
+95,Oracle Linux: (CVE-2021-20321) ELSA-2021-5227: kernel security and bug fix update,"January 07, 2022",4
+96,Amazon Linux AMI: ALAS-2021-1554: Security patch for log4j-cve-2021-44228-hotpatch,"January 07, 2022",4
+97,Centos Linux: CVE-2021-23214: Moderate: postgresql:12 security update (Multiple Advisories),"January 07, 2022",4
+98,Centos Linux: CVE-2021-3930: Low: virt:rhel and virt-devel:rhel security update (CESA-2021:5238),"January 07, 2022",4
+99,Red Hat: CVE-2021-20321: Moderate: kernel security and bug fix update (Multiple Advisories),"January 07, 2022",4
+100,Centos Linux: CVE-2021-20257: Low: virt:rhel and virt-devel:rhel security update (CESA-2021:5238),"January 07, 2022",4
+101,Red Hat: CVE-2021-3677: Moderate: postgresql:12 security update (Multiple Advisories),"January 07, 2022",4
+102,Red Hat: CVE-2021-20321: Moderate: kernel security and bug fix update (Multiple Advisories),"January 07, 2022",4
+103,Centos Linux: CVE-2021-23214: Moderate: postgresql:12 security update (Multiple Advisories),"January 07, 2022",4
+104,MFSA2021-55 Thunderbird: Security Vulnerabilities fixed in Thunderbird 91.4.1 (CVE-2021-4126),"January 07, 2022",4
+105,Red Hat: CVE-2021-20257: Low: virt:rhel and virt-devel:rhel security update (RHSA-2021:5238),"January 07, 2022",4
+106,Red Hat: CVE-2021-23214: Moderate: postgresql:12 security update (Multiple Advisories),"January 07, 2022",4
+107,SUSE: CVE-2021-4098: SUSE Linux Security Advisory,"January 07, 2022",4
+108,SUSE: CVE-2021-4101: SUSE Linux Security Advisory,"January 07, 2022",4
+109,SUSE: CVE-2021-4100: SUSE Linux Security Advisory,"January 07, 2022",4
+110,Debian: CVE-2021-3760: linux -- security update,"January 07, 2022",4
+111,Debian: CVE-2021-44224: apache2 -- security update,"January 07, 2022",4
+112,MediaWiki: Incorrect Default Permissions (CVE-2021-44858),"January 07, 2022",4
+113,Debian: CVE-2021-20321: linux -- security update,"January 07, 2022",4
+114,Debian: CVE-2021-20322: linux -- security update,"January 07, 2022",4
+115,SUSE: CVE-2021-4102: SUSE Linux Security Advisory,"January 07, 2022",4
+116,SUSE: CVE-2021-4099: SUSE Linux Security Advisory,"January 07, 2022",4
+117,Debian: CVE-2021-44790: apache2 -- security update,"January 07, 2022",4
+118,SUSE: CVE-2021-45105: SUSE Linux Security Advisory,"January 07, 2022",4
+119,Ubuntu: USN-5203-1 (CVE-2021-45105): Apache Log4j 2 vulnerability,"January 07, 2022",4
+120,Ubuntu: USN-5203-1 (CVE-2021-45105): Apache Log4j 2 vulnerability,"January 07, 2022",4
+121,Red Hat: CVE-2021-4010: Important: xorg-x11-server security update (RHSA-2022:0003),"January 07, 2022",4
+122,Red Hat: CVE-2021-4011: Important: xorg-x11-server security update (RHSA-2022:0003),"January 07, 2022",4
+123,Debian: CVE-2021-4010: xorg-server -- security update,"January 07, 2022",4
+124,Debian: CVE-2021-4011: xorg-server -- security update,"January 07, 2022",4
+125,Debian: CVE-2021-4008: xorg-server -- security update,"January 07, 2022",4
+126,Debian: CVE-2021-4009: xorg-server -- security update,"January 07, 2022",4
+127,Debian: CVE-2021-44858: mediawiki -- security update,"January 07, 2022",4
+128,Red Hat: CVE-2021-4009: Important: xorg-x11-server security update (RHSA-2022:0003),"January 07, 2022",4
+129,MediaWiki: Information Exposure (CVE-2021-45038),"January 07, 2022",4
+130,Apache Log4j Core: CVE-2021-45105: Apache Log4j2 does not always protect from infinite recursion in lookup evaluation,"January 07, 2022",4
+131,MediaWiki: Improper Privilege Management (CVE-2021-44857),"January 07, 2022",4
+132,Red Hat: CVE-2021-4008: Important: xorg-x11-server security update (RHSA-2022:0003),"January 07, 2022",4
+133,SUSE: CVE-2021-44716: SUSE Linux Security Advisory,"January 07, 2022",4
+134,Oracle Linux: (CVE-2021-44717) ELSA-2021-5160: go-toolset:ol8 security and bug fix update,"January 07, 2022",4
+135,Oracle Linux: (CVE-2021-44716) (Multiple Advisories): grafana security update,"January 07, 2022",4
+136,Ubuntu: USN-5198-1 (CVE-2021-23180): HTMLDOC vulnerability,"January 07, 2022",4
+137,SUSE: CVE-2021-44717: SUSE Linux Security Advisory,"January 07, 2022",4
+138,Debian: CVE-2021-44540: privoxy -- security update,"January 07, 2022",4
+139,Debian: CVE-2021-44543: privoxy -- security update,"January 07, 2022",4
+140,Microsoft Edge Chromium: CVE-2021-4101 Heap buffer overflow in Swiftshader,"January 07, 2022",4
+141,Microsoft Edge Chromium: CVE-2021-4102 Use after free in V8,"January 07, 2022",4
+142,Microsoft Edge Chromium: CVE-2021-4098 Insufficient data validation in Mojo,"January 07, 2022",4
+143,OpenSSL Invalid handling of X509_verify_cert() internal errors in libssl (CVE-2021-4044),"January 07, 2022",4
+144,Centos Linux: CVE-2020-25719: Moderate: idm:DL1 security update (Multiple Advisories),"January 07, 2022",4
+145,MongoDB: Improper Input Validation (CVE-2021-20330),"January 07, 2022",4
+146,Microsoft Edge Chromium: CVE-2021-4099 Use after free in Swiftshader,"January 07, 2022",4
+147,Centos Linux: CVE-2021-44716: Important: go-toolset:rhel8 security and bug fix update (CESA-2021:5160),"January 07, 2022",4
+148,Red Hat: CVE-2020-25719: Moderate: idm:DL1 security update (Multiple Advisories),"January 07, 2022",4
+149,Debian: CVE-2021-44543: privoxy -- security update,"January 07, 2022",4
+150,Debian: CVE-2021-44540: privoxy -- security update,"January 07, 2022",4
+151,Debian: CVE-2021-0920: linux -- security update,"January 07, 2022",4
+152,Microsoft Edge Chromium: CVE-2021-4100 Object lifecycle issue in ANGLE,"January 07, 2022",4
+153,Centos Linux: CVE-2021-44717: Important: go-toolset:rhel8 security and bug fix update (CESA-2021:5160),"January 07, 2022",4
+154,Centos Linux: CVE-2021-4104: Moderate: log4j security update (CESA-2021:5206),"January 07, 2022",4
+155,Microsoft CVE-2021-43255: Microsoft Office Trust Center Spoofing Vulnerability,"January 07, 2022",4
+156,Microsoft CVE-2021-43216: Microsoft Local Security Authority Server (lsasrv) Information Disclosure Vulnerability,"January 07, 2022",4
+157,Microsoft CVE-2021-43244: Windows Kernel Information Disclosure Vulnerability,"January 07, 2022",4
+158,Microsoft CVE-2021-42294: Microsoft SharePoint Server Remote Code Execution Vulnerability,"January 07, 2022",4
+159,Microsoft CVE-2021-43238: Windows Remote Access Elevation of Privilege Vulnerability,"January 07, 2022",4
+160,SUSE: CVE-2021-4054: SUSE Linux Security Advisory,"January 07, 2022",4
+161,Microsoft CVE-2021-43215: iSNS Server Memory Corruption Vulnerability Can Lead to Remote Code Execution,"January 07, 2022",4
+162,Microsoft CVE-2021-43230: Windows NTFS Elevation of Privilege Vulnerability,"January 07, 2022",4
+163,Oracle Linux: (CVE-2021-4104) ELSA-2021-5206: log4j security update,"January 07, 2022",4
+164,Oracle Linux: (CVE-2021-4010) ELSA-2022-0003: xorg-x11-server security update,"January 07, 2022",4
+165,Oracle Linux: (CVE-2021-4011) ELSA-2022-0003: xorg-x11-server security update,"January 07, 2022",4
+166,Microsoft CVE-2021-43224: Windows Common Log File System Driver Information Disclosure Vulnerability,"January 07, 2022",4
+167,Microsoft CVE-2021-42295: Visual Basic for Applications Information Disclosure Vulnerability,"January 07, 2022",4
+168,Microsoft CVE-2021-43223: Windows Remote Access Connection Manager Elevation of Privilege Vulnerability,"January 07, 2022",4
+169,Microsoft CVE-2021-43222: Microsoft Message Queuing Information Disclosure Vulnerability,"January 07, 2022",4
+170,Microsoft CVE-2021-43246: Windows Hyper-V Denial of Service Vulnerability,"January 07, 2022",4
+171,SUSE: CVE-2021-38018: SUSE Linux Security Advisory,"January 07, 2022",4
+172,SUSE: CVE-2021-4057: SUSE Linux Security Advisory,"January 07, 2022",4
+173,SUSE: CVE-2021-4008: SUSE Linux Security Advisory,"January 07, 2022",4
+174,SUSE: CVE-2021-4058: SUSE Linux Security Advisory,"January 07, 2022",4
+175,SUSE: CVE-2021-38019: SUSE Linux Security Advisory,"January 07, 2022",4
+176,SUSE: CVE-2021-4053: SUSE Linux Security Advisory,"January 07, 2022",4
+177,SUSE: CVE-2021-4067: SUSE Linux Security Advisory,"January 07, 2022",4
+178,SUSE: CVE-2021-38013: SUSE Linux Security Advisory,"January 07, 2022",4
+179,SUSE: CVE-2021-38012: SUSE Linux Security Advisory,"January 07, 2022",4
